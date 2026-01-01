@@ -29,7 +29,7 @@ const Browsejobs = () => {
   useEffect(() => {
     const fetchJobs = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/api/jobs");
+        const response = await axios.get("https://skillhuntmaster-backend-2.onrender.com/api/jobs");
         setJobs(response.data);
       } catch (error) {
         console.error("Error fetching data:", error);
