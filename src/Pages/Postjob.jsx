@@ -22,7 +22,7 @@ function Postjob() {
 
   const getJobs = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/jobs");
+      const res = await axios.get("https://skillhuntmaster-backend-2.onrender.com/api/jobs");
       setJobs(res.data);
     } catch (err) {
       console.log(err);
@@ -54,9 +54,9 @@ function Postjob() {
 
     try {
       if (editId) {
-        await axios.put(`http://localhost:5000/api/jobs/${editId}`, form);
+        await axios.put(`https://skillhuntmaster-backend-2.onrender.com/api/jobs/${editId}`, form);
       } else {
-        await axios.post("http://localhost:5000/api/jobs", form);
+        await axios.post("https://skillhuntmaster-backend-2.onrender.com/api/jobs", form);
       }
 
       setForm({
@@ -89,7 +89,7 @@ function Postjob() {
 
   const handleDelete = async (id) => {
     try {
-      await axios.delete(`http://localhost:5000/api/jobs/${id}`);
+      await axios.delete(`https://skillhuntmaster-backend-2.onrender.com/api/jobs/${id}`);
       getJobs();
     } catch (err) {
       console.log(err);
