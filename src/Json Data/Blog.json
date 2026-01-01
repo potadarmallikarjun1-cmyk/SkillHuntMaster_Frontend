@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "date": "2025-01-05",
+      "description": "Top in-demand skills employers are actively looking for in 2025 and how candidates can start preparing early.",
+      "image": "image_1.jpg"
+    },
+    {
+      "date": "2025-01-15",
+      "description": "A complete beginner-friendly guide to preparing confidently for your first job interview.",
+      "image": "image_2.jpg"
+    },
+    {
+      "date": "2025-01-28",
+      "description": "An overview of the best IT and tech job opportunities available for freshers in India.",
+      "image": "image_3.jpg"
+    },
+    {
+      "date": "2025-02-08",
+      "description": "Practical resume writing tips that help candidates stand out and get noticed by recruiters.",
+      "image": "image_4.jpg"
+    },
+    {
+      "date": "2025-02-18",
+      "description": "Latest hiring trends in the job market and what skills job seekers should focus on right now.",
+      "image": "image_5.jpg"
+    },
+    {
+      "date": "2025-03-01",
+      "description": "Step-by-step guidance on how to build a strong portfolio that attracts employers.",
+      "image": "image_6.jpg"
+    },
+    {
+      "date": "2025-03-10",
+      "description": "Common job search mistakes candidates make and proven strategies to avoid them.",
+      "image": "image_7.jpg"
+    },
+    {
+      "date": "2025-03-20",
+      "description": "How freshers and professionals can upskill effectively to stay competitive in today’s job market.",
+      "image": "image_8.jpg"
+    }
+  ]
+}

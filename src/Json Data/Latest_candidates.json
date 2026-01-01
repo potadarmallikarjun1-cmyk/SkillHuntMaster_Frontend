@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "education": "B.Tech in Computer Science",
+    "profile": "Frontend Developer",
+    "image": "/person_1.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "education": "MCA",
+    "profile": "Backend Developer",
+    "image": "/person_2.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "Rohan",
+    "lastName": "Patel",
+    "education": "B.Des in UI/UX",
+    "profile": "UI/UX Designer",
+    "image": "/person_3.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "Sneha",
+    "lastName": "Kulkarni",
+    "education": "MBA",
+    "profile": "Project Manager",
+    "image": "/person_4.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "Jay",
+    "lastName": "Desai",
+    "education": "B.Tech in IT",
+    "profile": "Full Stack Developer",
+    "image": "/person_5.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "Neha",
+    "lastName": "Verma",
+    "education": "B.Sc Data Science",
+    "profile": "Data Analyst",
+    "image": "/person_6.jpg"
+  }
+]

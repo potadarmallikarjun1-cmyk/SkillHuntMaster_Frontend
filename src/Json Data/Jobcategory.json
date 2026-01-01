@@ -1,0 +1,20 @@
+{
+  "jobCategories": [
+    { "category": "Web Development", "positions": 245 },
+    { "category": "Mobile Engineer", "positions": 182 },
+    { "category": "UI/UX Design", "positions": 127 },
+    { "category": "Data Science", "positions": 156 },
+    { "category": "Machine Learning", "positions": 104 },
+    { "category": "DevOps Engineering", "positions": 118 },
+    { "category": "Cybersecurity", "positions": 132 },
+    { "category": "Digital Marketing", "positions": 209 },
+    { "category": "Content Writing", "positions": 174 },
+    { "category": "Product Management", "positions": 106 },
+    { "category": "Quality Assurance", "positions": 121 },
+    { "category": "IT Support", "positions": 139 },
+    { "category": "Game Development", "positions": 115 },
+    { "category": "Blockchain", "positions": 103 },
+    { "category": "AR/VR Development", "positions": 112 },
+    { "category": "Artificial Intelligence", "positions": 154 }
+  ]
+}

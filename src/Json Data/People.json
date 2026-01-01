@@ -1,0 +1,46 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Roger Federer",
+    "image1": "/public/person_1.jpg",
+    "state": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "id": 2,
+    "name": "Serena Williams",
+    "image": "/public/person_2.jpg",
+    "state": "Florida",
+    "country": "United States"
+  },
+  {
+    "id": 3,
+    "name": "Rafael Nadal",
+    "image": "/public/person_3.jpg",
+    "state": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": 4,
+    "name": "Novak Djokovic",
+    "image": "/public/person_4.jpg",
+    "state": "Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "id": 5,
+    "name": "Maria Sharapova",
+    "image": "/public/person_5.jpg",
+    "state": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "id": 6,
+    "name": "Andy Murray",
+    "image": "/public/person_6.jpg",
+    "state": "London",
+    "country": "United Kingdom"
+  }
+]

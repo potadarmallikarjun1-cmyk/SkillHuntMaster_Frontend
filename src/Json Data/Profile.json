@@ -1,0 +1,26 @@
+[
+  {
+    "profile": "Frontend Developer",
+    "open_positions": 40
+  },
+  {
+    "profile": "Backend Developer",
+    "open_positions": 55
+  },
+  {
+    "profile": "Full Stack Developer",
+    "open_positions": 65
+  },
+  {
+    "profile": "Mobile App Developer",
+    "open_positions": 95
+  },
+  {
+    "profile": "DevOps Engineer",
+    "open_positions": 52
+  },
+  {
+    "profile": "Data & AI Engineer",
+    "open_positions": 65
+  }
+]
