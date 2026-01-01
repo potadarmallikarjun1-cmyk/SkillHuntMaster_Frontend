@@ -46,7 +46,7 @@ function Navbar() {
           >
             {/* LOGO */}
             <div className="logo">
-              <h1 className="text-2xl font-medium text-white">Skillhunt</h1>
+              <h1 className="text-2xl font-medium text-white">SkillHunt</h1>
             </div>
 
             {/* MOBILE MENU BUTTON */}
